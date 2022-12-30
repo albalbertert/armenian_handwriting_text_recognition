@@ -1,0 +1,10 @@
+keras==2.7.0
+matplotlib==3.4.3
+numpy==1.23.4
+opencv_python_headless==4.5.4.60
+Pillow==9.3.0
+pytesseract==0.3.10
+scikit_learn==1.2.0
+tensorflow==2.11.0
+tensorflow_gpu==2.7.0
+tqdm==4.64.1
